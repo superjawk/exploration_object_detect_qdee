@@ -1,5 +1,5 @@
 {
-    "name": "exploration_object_detect_Qdee",
+    "name": "Qdee_exploration_object_detect",
     "description": "",
     "dependencies": {
         "core": "*",
